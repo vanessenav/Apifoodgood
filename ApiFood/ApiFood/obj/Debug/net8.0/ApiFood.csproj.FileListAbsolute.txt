@@ -170,3 +170,4 @@ C:\Users\timaf\Documents\GitHub\Apifoodgood\ApiFood\ApiFood\obj\Debug\net8.0\ref
 C:\Users\timaf\Documents\GitHub\Apifoodgood\ApiFood\ApiFood\obj\Debug\net8.0\ApiFood.pdb
 C:\Users\timaf\Documents\GitHub\Apifoodgood\ApiFood\ApiFood\obj\Debug\net8.0\ApiFood.genruntimeconfig.cache
 C:\Users\timaf\Documents\GitHub\Apifoodgood\ApiFood\ApiFood\obj\Debug\net8.0\ref\ApiFood.dll
+C:\Users\timaf\Documents\GitHub\Apifoodgood\ApiFood\ApiFood\obj\Debug\net8.0\ApiFood.sourcelink.json
