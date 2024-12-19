@@ -2,116 +2,193 @@
 
 <div class="container">
     <header>
-        <h1>Loamoda store</h1>
+        <h1>HealthyEats Delivery</h1>
         <nav>
-            <a href="/">Home</a>
-            <a href="/product">Products</a>
-            <a href="/styles">Styles</a>
+            <a href="/">Главная</a>
+            <a href="/menu">Меню</a>
+            <a href="/contact">Контакты</a>
         </nav>
     </header>
 
     <main>
-        <h2>Одежда</h2>
+        <h2>Наши полезные блюда</h2>
         <div class="products">
             <div class="product-card">
-                <img src="Img/RTLADX457301_25405356_1_v1.png" alt="Product 1" />
-                <h2>Classic T-Shirt</h2>
-                <p>$20.00</p>
+                <img src="Img/freshsalad.jpg" alt="Свежий салат" />
+                <h2>Свежий салат</h2>
+                <p>750₽</p>
+                <button>Заказать</button>
             </div>
             <div class="product-card">
-                <img src="Img/RTLADW298301_25559215_1_v1_2x.png" alt="Product 2" />
-                <h2>Modern Hoodie</h2>
-                <p>$35.00</p>
+                <img src="Img/Smunth.jpg" alt="Смузи боул" />
+                <h2>Смузи боул</h2>
+                <p>900₽</p>
+                <button>Заказать</button>
             </div>
             <div class="product-card">
-                <img src="Img/jeans.png" alt="Product 3" />
-                <h2>Sleek Jeans</h2>
-                <p>$50.00</p>
+                <img src="Img/gril.jpg" alt="Курица-гриль" />
+                <h2>Курица-гриль</h2>
+                <p>1125₽</p>
+                <button>Заказать</button>
+            </div>
+            <div class="product-card">
+                <img src="Img/Рис-с-овощами-по-китайски.jpg" alt="Рис с овощами" />
+                <h2>Рис с овощами</h2>
+                <p>600₽</p>
+                <button>Заказать</button>
+            </div>
+            <div class="product-card">
+                <img src="Img/Delicious-Grilled-Guacamole-Recipe.jpg" alt="Гуакамоле с авокадо" />
+                <h2>Гуакамоле с авокадо</h2>
+                <p>800₽</p>
+                <button>Заказать</button>
+            </div>
+            <div class="product-card">
+                <img src="Img/Салат-с-киноа_-авокадо-и-овощами-—-пошаговый-рецепт-с-фото-от-Бондюэль.jpg" alt="Киноа с овощами" />
+                <h2>Киноа с овощами</h2>
+                <p>950₽</p>
+                <button>Заказать</button>
+            </div>
+            <div class="product-card">
+                <img src="Img/recipe_117_slivochnoe-rizoni.jpg" alt="Сливочное ризони (орзо) с курицей и овощами" />
+                <h2>Сливочное ризони (орзо) с курицей и овощами</h2>
+                <p>1050₽</p>
+                <button>Заказать</button>
+            </div>
+            <div class="product-card">
+                <img src="Img/Daily-Green-Juice.jpg" alt="Зеленый сок" />
+                <h2>Зеленый сок</h2>
+                <p>450₽</p>
+                <button>Заказать</button>
             </div>
         </div>
     </main>
-
-    <footer>
-        &copy; 2024 Lamoda
-    </footer>
 </div>
 
 <style>
-    body {
-        font-family: Arial, sans-serif;
+    * {
         margin: 0;
         padding: 0;
-        background-color: #f8f9fa;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f1f1f1;
         color: #333;
+        line-height: 1.6;
     }
 
     header {
-        background-color: #333;
-        color: #fff;
-        padding: 1rem;
+        background: linear-gradient(135deg, #6dd5ed, #2193b0); /* Плавный градиент */
+        color: white;
+        padding: 2rem 4rem;
         display: flex;
         justify-content: space-between;
         align-items: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
 
-        header nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 1rem;
-            font-size: 1rem;
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
         }
 
-            header nav a:hover {
-                text-decoration: underline;
-            }
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 0 1.5rem;
+        font-size: 1.1rem;
+        transition: color 0.3s ease;
+    }
+
+        nav a:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
 
     main {
-        padding: 2rem;
+        padding: 4rem 6rem;
+        background-color: #fff;
+    }
+
+    h2 {
+        font-size: 2rem;
+        font-weight: 600;
+        color: #333;
+        text-align: center;
+        margin-bottom: 3rem;
     }
 
     .products {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 1.5rem;
-        margin-top: 2rem;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 2rem;
+        justify-content: center;
     }
 
     .product-card {
-        background: #fff;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        padding: 1rem;
+        background-color: #ffffff;
+        border-radius: 12px;
+        padding: 1.5rem;
         text-align: center;
-        transition: transform 0.3s, box-shadow 0.3s;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        overflow: hidden;
     }
 
         .product-card img {
             width: 100%;
             height: auto;
-            border-radius: 8px;
-            margin-bottom: 1rem;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
         }
 
         .product-card h2 {
-            font-size: 1.25rem;
-            margin: 0.5rem 0;
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #333;
+            margin-top: 1rem;
         }
 
         .product-card p {
-            font-size: 1rem;
-            color: #666;
+            font-size: 1.1rem;
+            color: #777;
+            margin: 0.5rem 0;
         }
 
+        .product-card button {
+            background-color: #2193b0;
+            color: white;
+            border: none;
+            padding: 0.8rem 2rem;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+            .product-card button:hover {
+                background-color: #6dd5ed;
+                transform: scale(1.05);
+            }
+
         .product-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
 
     footer {
         text-align: center;
-        padding: 1rem;
-        background-color: #333;
-        color: #fff;
-        margin-top: 2rem;
+        padding: 2rem;
+        background-color: #2193b0;
+        color: white;
+        font-size: 1.1rem;
+        margin-top: 3rem;
     }
+
+        footer p {
+            margin: 0;
+        }
 </style>

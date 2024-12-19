@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\Client.csproj": {}
+    "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\Client.csproj": {
+    "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\obj\\",
+        "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,10 @@
 wwwroot\css\app.css
-wwwroot\Img\jeans.png
-wwwroot\Img\RTLADW298301_25559215_1_v1_2x.png
-wwwroot\Img\RTLADX457301_25405356_1_v1.png
+wwwroot\Img\Daily-Green-Juice.jpg
+wwwroot\Img\Delicious-Grilled-Guacamole-Recipe.jpg
+wwwroot\Img\freshsalad.jpg
+wwwroot\Img\gril.jpg
+wwwroot\Img\recipe_117_slivochnoe-rizoni.jpg
+wwwroot\Img\Smunth.jpg
+wwwroot\Img\Рис-с-овощами-по-китайски.jpg
+wwwroot\Img\Салат-с-киноа_-авокадо-и-овощами-—-пошаговый-рецепт-с-фото-от-Бондюэль.jpg
 wwwroot\index.html

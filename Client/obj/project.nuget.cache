@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DNZlTF7+Ug=",
+  "dgSpecHash": "FX8FbxU/rWY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timaf\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\timaf\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.10\\microsoft.aspnetcore.components.8.0.10.nupkg.sha512",
