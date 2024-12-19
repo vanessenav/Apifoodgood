@@ -15,7 +15,7 @@ public partial class OrderDetail
 
     public decimal SubTotal { get; set; }
 
-    public virtual Menu? Menu { get; set; }
+    public virtual Menus? Menu { get; set; }
 
     public virtual Order? Order { get; set; }
 }

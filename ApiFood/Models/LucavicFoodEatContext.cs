@@ -17,7 +17,7 @@ public partial class LucavicFoodEatContext : DbContext
 
     public virtual DbSet<Delivery> Deliveries { get; set; }
 
-    public virtual DbSet<Menu> Menus { get; set; }
+    public virtual DbSet<Menus> Menus { get; set; }
 
     public virtual DbSet<Order> Orders { get; set; }
 
@@ -47,7 +47,7 @@ public partial class LucavicFoodEatContext : DbContext
                 .HasConstraintName("FK__Deliverie__Order__34C8D9D1");
         });
 
-        modelBuilder.Entity<Menu>(entity =>
+        modelBuilder.Entity<Menus>(entity =>
         {
             entity.HasKey(e => e.MenuId).HasName("PK__Menu__C99ED250EF445BE0");
 

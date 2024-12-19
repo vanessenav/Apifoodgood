@@ -17,14 +17,14 @@ namespace ApiFood.Controllers
 
         // GET: api/Menu
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Menu>>> GetMenuItems()
+        public async Task<ActionResult<IEnumerable<Menus>>> GetMenuItems()
         {
             return await _context.Menus.ToListAsync();
         }
 
         // GET: api/Menu/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Menu>> GetMenuItem(int id)
+        public async Task<ActionResult<Menus>> GetMenuItem(int id)
         {
             var menuItem = await _context.Menus.FindAsync(id);
 
@@ -38,7 +38,7 @@ namespace ApiFood.Controllers
 
         // POST: api/Menu
         [HttpPost]
-        public async Task<ActionResult<Menu>> CreateMenuItem(Menu menuItem)
+        public async Task<ActionResult<Menus>> CreateMenuItem(Menus menuItem)
         {
             _context.Menus.Add(menuItem);
             await _context.SaveChangesAsync();
@@ -48,7 +48,7 @@ namespace ApiFood.Controllers
 
         // PUT: api/Menu/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateMenuItem(int id, Menu menuItem)
+        public async Task<IActionResult> UpdateMenuItem(int id, Menus menuItem)
         {
             if (id != menuItem.MenuId)
             {

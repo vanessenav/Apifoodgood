@@ -5156,24 +5156,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\timaf\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\timaf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\ApiFood.csproj",
+      "projectUniqueName": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\ApiFood\\ApiFood.csproj",
       "projectName": "ApiFood",
-      "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\ApiFood.csproj",
+      "projectPath": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\ApiFood\\ApiFood.csproj",
       "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\obj\\",
+      "outputPath": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\ApiFood\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\timaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5181,6 +5176,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5198,8 +5194,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -5239,7 +5234,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

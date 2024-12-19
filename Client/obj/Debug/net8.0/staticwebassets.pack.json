@@ -1,52 +1,52 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\Daily-Green-Juice.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\obj\\Debug\\net8.0\\compressed\\tnx5gyhtlk.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\Daily-Green-Juice.jpg",
       "PackagePath": "staticwebassets\\Img\\Daily-Green-Juice.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\Delicious-Grilled-Guacamole-Recipe.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\Delicious-Grilled-Guacamole-Recipe.jpg",
       "PackagePath": "staticwebassets\\Img\\Delicious-Grilled-Guacamole-Recipe.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\Smunth.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\Smunth.jpg",
       "PackagePath": "staticwebassets\\Img\\Smunth.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\freshsalad.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\freshsalad.jpg",
       "PackagePath": "staticwebassets\\Img\\freshsalad.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\gril.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\gril.jpg",
       "PackagePath": "staticwebassets\\Img\\gril.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\recipe_117_slivochnoe-rizoni.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\recipe_117_slivochnoe-rizoni.jpg",
       "PackagePath": "staticwebassets\\Img\\recipe_117_slivochnoe-rizoni.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\Рис-с-овощами-по-китайски.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\Рис-с-овощами-по-китайски.jpg",
       "PackagePath": "staticwebassets\\Img\\Рис-с-овощами-по-китайски.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\Img\\Салат-с-киноа_-авокадо-и-овощами-—-пошаговый-рецепт-с-фото-от-Бондюэль.jpg",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\Img\\Салат-с-киноа_-авокадо-и-овощами-—-пошаговый-рецепт-с-фото-от-Бондюэль.jpg",
       "PackagePath": "staticwebassets\\Img\\Салат-с-киноа_-авокадо-и-овощами-—-пошаговый-рецепт-с-фото-от-Бондюэль.jpg"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\Client\\wwwroot\\index.html",
+      "Id": "C:\\Users\\timaf\\OneDrive\\Рабочий стол\\Apifoodgood\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
