@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x8g6I44HPHThEZPnFhSEGoYHtm2r4eiB/+A+omDurUY=",
+  "Source": "ApiFood",
+  "BasePath": "_content/ApiFood",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
