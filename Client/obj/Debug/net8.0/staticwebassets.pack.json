@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\wwwroot\\Img\\RTLADW298301_25559215_1_v1_2x.png",
+      "PackagePath": "staticwebassets\\Img\\RTLADW298301_25559215_1_v1_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\wwwroot\\Img\\RTLADX457301_25405356_1_v1.png",
+      "PackagePath": "staticwebassets\\Img\\RTLADX457301_25405356_1_v1.png"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\wwwroot\\Img\\jeans.png",
+      "PackagePath": "staticwebassets\\Img\\jeans.png"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiAndri\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Client.props",
+      "PackagePath": "build\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Client.props",
+      "PackagePath": "buildMultiTargeting\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Client.props",
+      "PackagePath": "buildTransitive\\Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

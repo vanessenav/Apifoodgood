@@ -1,0 +1,117 @@
+﻿@page "/"
+
+<div class="container">
+    <header>
+        <h1>Loamoda store</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/product">Products</a>
+            <a href="/styles">Styles</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Одежда</h2>
+        <div class="products">
+            <div class="product-card">
+                <img src="Img/RTLADX457301_25405356_1_v1.png" alt="Product 1" />
+                <h2>Classic T-Shirt</h2>
+                <p>$20.00</p>
+            </div>
+            <div class="product-card">
+                <img src="Img/RTLADW298301_25559215_1_v1_2x.png" alt="Product 2" />
+                <h2>Modern Hoodie</h2>
+                <p>$35.00</p>
+            </div>
+            <div class="product-card">
+                <img src="Img/jeans.png" alt="Product 3" />
+                <h2>Sleek Jeans</h2>
+                <p>$50.00</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        &copy; 2024 Lamoda
+    </footer>
+</div>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f8f9fa;
+        color: #333;
+    }
+
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        header nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-size: 1rem;
+        }
+
+            header nav a:hover {
+                text-decoration: underline;
+            }
+
+    main {
+        padding: 2rem;
+    }
+
+    .products {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+        margin-top: 2rem;
+    }
+
+    .product-card {
+        background: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 1rem;
+        text-align: center;
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+        .product-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+
+        .product-card h2 {
+            font-size: 1.25rem;
+            margin: 0.5rem 0;
+        }
+
+        .product-card p {
+            font-size: 1rem;
+            color: #666;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+    footer {
+        text-align: center;
+        padding: 1rem;
+        background-color: #333;
+        color: #fff;
+        margin-top: 2rem;
+    }
+</style>

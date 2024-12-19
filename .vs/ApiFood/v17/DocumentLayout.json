@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\apifood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\apifood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|c:\\users\\timaf\\documents\\github\\apifoodgood\\apifood\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC9ABB3C-683B-483F-8D38-A3E1751DCDF5}|ApiFood\\ApiFood.csproj|solutionrelative:apifood\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiFood.csproj",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\ApiFood.csproj",
+              "RelativeDocumentMoniker": "ApiFood\\ApiFood.csproj",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\ApiFood.csproj",
+              "RelativeToolTip": "ApiFood\\ApiFood.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T17:41:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "ApiFood\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:22:03.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ApiFood\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:21:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiFood\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:04:47.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "ApiFood\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:05:05.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeliveryController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\DeliveryController.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Controllers\\DeliveryController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\DeliveryController.cs",
+              "RelativeToolTip": "ApiFood\\Controllers\\DeliveryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:17:45.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ApiFood\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:22:18.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Models\\Menu.cs",
+              "RelativeToolTip": "ApiFood\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:18:38.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Models\\Delivery.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Models\\Delivery.cs",
+              "RelativeToolTip": "ApiFood\\Models\\Delivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:18:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiFood\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:38:26.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Program.cs",
+              "RelativeDocumentMoniker": "ApiFood\\Program.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\Program.cs",
+              "RelativeToolTip": "ApiFood\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:37:26.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiFood\\appsettings.json",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\Apifoodgood\\ApiFood\\appsettings.json",
+              "RelativeToolTip": "ApiFood\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T16:36:47.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
